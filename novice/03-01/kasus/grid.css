@@ -1,0 +1,23 @@
+.container {
+    height: 700px;
+    margin: 100px auto;
+    width: 1000px;
+  }
+  
+  .cell {
+    background-color: #f80091;
+    background-size: contain;
+    border: 9px solid rgb(19, 18, 18);
+    box-sizing: border-box;
+    float: left;
+    height: 10%;
+    width: 10%;
+  }
+  
+  .active {
+    background-color: #ff0000;
+  }
+  
+  /* .active-head {
+    background-color: #e74c3c;
+  } */

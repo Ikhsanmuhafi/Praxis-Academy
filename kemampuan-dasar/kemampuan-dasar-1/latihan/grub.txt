@@ -1,0 +1,5 @@
+parameter
+1.ubuntu = untuk masuk ke dalam os ubuntu
+2.andvance options for ubuntu = untuk mengganti versi ubuntu
+3.windows boot manager (on/dev/sda2) = untuk kembali ke dalam windows
+4.UEFI Fimware settings = untuk masuk kedalam setting/pengaturan
